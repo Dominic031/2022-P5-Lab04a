@@ -13,6 +13,9 @@ public class Lab04avst
         double annualRate = 4.85;
         double numYears   = 30;
 
+        System.out.println ("Principal: " + principal);
+        System.out.println (" annualRate:" + annualRate );
+
 
 
 
